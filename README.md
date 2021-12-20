@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pavcode83.github.io/rsschool-cv/cv
