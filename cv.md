@@ -52,7 +52,7 @@ function multiply(a, b){
 
 ## MY PROJECTS
 
-https://pavcode83.github.io/rsschool-cv/cv
+[https://pavcode83.github.io/rsschool-cv/cv](https://pavcode83.github.io/rsschool-cv/cv)
 
 ## EDUCATION
 
