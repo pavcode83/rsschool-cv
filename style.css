@@ -240,7 +240,11 @@ body {
   height: 60px;
   max-width: 100%;
 }
-
+.time {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1.5em;
+}
 /*---Адаптив----*/
 @media (min-width: 780px) and (max-width: 970px) {
   .nav__list {
