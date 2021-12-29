@@ -244,6 +244,7 @@ body {
   font-size: 25px;
   font-weight: 500;
   line-height: 1.5em;
+  color: #1e6923;
 }
 /*---Адаптив----*/
 @media (min-width: 780px) and (max-width: 970px) {
